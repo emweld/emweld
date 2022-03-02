@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emweld
-- 👀 I’m interested in python and SQL
+- 👀 I’m interested in the usual: python, r, and SQL
 - 🌱 I’m currently learning Quantum Computing with Qiskit
 - 💞️ I’m looking to collaborate on ... not sure yet... I'll get back to this later 
 - 📫 How to reach me DM me, I guess?
